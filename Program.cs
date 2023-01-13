@@ -16,14 +16,16 @@ namespace ConsoleApplication1
            // Console.WriteLine("Enter Your Name");
            //name= Console.ReadLine();
            //Console.WriteLine("Enter Your Name" +name);
-           int a, b, sum;
-            Console.WriteLine("Enter a");
-            a=Convert.ToInt32(Console.ReadLine()) ;
-            Console.WriteLine("Enter B");
-            b=Convert.ToInt32(Console.ReadLine());
-            sum=a+b;
-            Console.WriteLine(sum);
-
+           //int a, b, sum;
+           // Console.WriteLine("Enter a");
+           // a=Convert.ToInt32(Console.ReadLine()) ;
+           // Console.WriteLine("Enter B");
+           // b=Convert.ToInt32(Console.ReadLine());
+           // sum=a+b;
+           // Console.WriteLine(sum);
+            int a=10;
+            Console.WriteLine(a);
+            
            Console.ReadKey();
         }
     }
